@@ -2,7 +2,7 @@
   "name": "static-notifications",
   "version": "0.0.0",
   "description": "No description",
-  "author": null,
+  "author": "Cameron Aziz",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
